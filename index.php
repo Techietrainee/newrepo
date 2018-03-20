@@ -9,5 +9,6 @@ echo "<br>";
 test();
 echo "<br>";
 test();
+test();
 ?> 
 
